@@ -1,0 +1,122 @@
+[02-Apr-2018 13:36:17 America/New_York] PHP Warning:  require(/home/cemolinabogados/admin.cemolinabogados.com/../vendor/autoload.php): failed to open stream: No such file or directory in /home/cemolinabogados/admin.cemolinabogados.com/index.php on line 24
+[02-Apr-2018 13:36:17 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/cemolinabogados/admin.cemolinabogados.com/../vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cemolinabogados/admin.cemolinabogados.com/index.php on line 24
+[02-Apr-2018 14:33:42 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Apr-2018 14:42:47 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Apr-2018 14:42:48 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Apr-2018 14:42:48 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Apr-2018 14:42:49 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Apr-2018 14:42:49 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Apr-2018 14:42:49 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Apr-2018 14:42:50 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Apr-2018 14:42:50 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Apr-2018 14:42:50 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Apr-2018 14:42:50 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Apr-2018 14:42:51 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Apr-2018 14:42:51 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Apr-2018 14:42:51 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Apr-2018 14:42:51 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Apr-2018 14:42:52 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Apr-2018 18:45:44 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:45:44 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:45:44 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:45:44 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:45:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:45:49 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:45:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:45:49 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:45:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:45:50 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:45:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:45:50 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:45:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:45:51 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:45:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:45:51 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:45:58 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:45:58 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:45:58 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:45:58 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:46:00 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:46:00 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:46:00 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:46:00 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:46:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:46:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:46:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:46:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:46:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:46:11 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:46:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:46:11 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:46:13 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:46:13 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:46:13 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:46:13 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:46:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:46:47 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:46:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:46:47 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:46:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:46:47 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:46:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:46:47 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:46:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:46:49 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:46:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:46:49 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:47:08 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:47:08 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:47:08 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:47:08 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:47:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:47:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:47:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:47:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:47:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:47:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:47:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:47:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:47:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:47:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:47:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:47:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:47:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:47:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:47:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:47:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:47:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:47:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:47:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:47:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:47:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:47:11 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:47:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:47:11 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:47:15 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:47:15 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:47:15 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:47:15 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:48:09 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:48:09 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:48:09 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:48:09 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:49:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:49:47 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:49:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:49:47 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:49:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:49:50 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:49:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:49:50 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:49:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:49:50 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:49:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:49:50 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:51:57 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:51:57 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:51:57 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:51:57 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:52:00 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:52:00 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Apr-2018 18:52:00 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cemolinabogados/vendor/symfony/http-foundation/Response.php on line 499
+[02-Apr-2018 18:52:00 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
